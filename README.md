@@ -1,2 +1,0 @@
-LV BAG
-LV Wallet
